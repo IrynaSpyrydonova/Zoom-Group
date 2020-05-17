@@ -14,6 +14,6 @@ Here we are:
 
 * [Yildiray](Yildiray.md)
 
-* Iryna
+* [Iryna](Iryna.md)
 
 * Yared Yared
