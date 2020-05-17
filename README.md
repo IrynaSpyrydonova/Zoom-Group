@@ -4,9 +4,9 @@ Welcome to the **ZOOM** group 😉👋
 
 Here we are:
 
-* **coach** 
+* **coach** Louise
 
-* Yauheniya
+* [Yauheniya](Yauheniya.md)
 
 * Yulia
 
